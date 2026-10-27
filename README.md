@@ -45,7 +45,7 @@ Alternativas:
 npx serve -l 5173 .
 ```
 
-También se puede usar la extensión Live Server de VS Code. El archivo `index.html` no debe abrirse mediante `file://`, porque los módulos ES y las llamadas a la API requieren un servidor HTTP.
+El archivo `index.html` no debe abrirse mediante `file://`, porque los módulos ES y las llamadas a la API requieren un servidor HTTP.
 
 ## Cuentas de prueba
 
